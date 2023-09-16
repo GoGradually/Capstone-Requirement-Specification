@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "멘토님 조언 정리/1.md",
+                "file": "멘토님 조언 정리/멘토님 조언.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-09-16/서버 접속 해보기.md",
+                "file": "멘토님 조언 정리/멘토님 조언.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-09-16/서버 접속 해보기.md",
+                "file": "멘토님 조언 정리/멘토님 조언.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-09-16/서버 접속 해보기.md",
+                "file": "멘토님 조언 정리/멘토님 조언.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-09-16/서버 접속 해보기.md"
+                "file": "멘토님 조언 정리/멘토님 조언.md"
               }
             }
           },
@@ -207,11 +207,11 @@
   },
   "active": "4c7e29bf15ad4a12",
   "lastOpenFiles": [
+    "2023-09-16/서버 접속 해보기.md",
     "플러터 내용 정리/무제 파일.md",
     "요구사항 명세서/1.md",
     "사용해야 하는 api 정리/1.md",
-    "멘토님 조언 정리/1.md",
-    "2023-09-16/서버 접속 해보기.md",
+    "멘토님 조언 정리/멘토님 조언.md",
     "요구사항 명세서.md",
     "해야할 일/9월의 목표.md",
     "해야할 일",
