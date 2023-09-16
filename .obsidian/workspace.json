@@ -1,38 +1,14 @@
 {
   "main": {
-    "id": "7b43f5c14a951bf3",
+    "id": "eb8c6b45171590e2",
     "type": "split",
     "children": [
       {
-        "id": "f2f6d544e30dd3d9",
+        "id": "f199e42e41d585d3",
         "type": "tabs",
         "children": [
           {
-            "id": "3a31bc1a1b1073d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "멘토님 조언 정리/멘토님 조언.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e376e90fb96eef5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "백엔드.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c8889275e871958d",
+            "id": "33086d584a855bff",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -43,22 +19,21 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "ac020c61844194c0",
+    "id": "24d720d25f7403a2",
     "type": "split",
     "children": [
       {
-        "id": "100b8d66986a1f79",
+        "id": "2467d1765b845d0e",
         "type": "tabs",
         "children": [
           {
-            "id": "0838b38189d4abbb",
+            "id": "439fc0556762fbab",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -68,7 +43,7 @@
             }
           },
           {
-            "id": "3dd6e9864daa01dc",
+            "id": "0ce6970b0beab01c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -83,7 +58,7 @@
             }
           },
           {
-            "id": "a6a9535ce0dbba7a",
+            "id": "62f3bfaf21cf642c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -97,15 +72,15 @@
     "width": 200
   },
   "right": {
-    "id": "5f7dbb49b3eae064",
+    "id": "490d84db42cac4c6",
     "type": "split",
     "children": [
       {
-        "id": "1ecae75cfc5fe809",
+        "id": "5ff932e46b59c962",
         "type": "tabs",
         "children": [
           {
-            "id": "b52e55153b41eada",
+            "id": "7c4b4647bdd5efe9",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -122,7 +97,7 @@
             }
           },
           {
-            "id": "0060ab7092ee976f",
+            "id": "fdc0eb59fc140682",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -134,7 +109,7 @@
             }
           },
           {
-            "id": "6e71db562873f18f",
+            "id": "6f930a6b8a928b70",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -145,7 +120,7 @@
             }
           },
           {
-            "id": "38d95c8346a24ae5",
+            "id": "935b5dec75b45676",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -155,7 +130,7 @@
             }
           },
           {
-            "id": "ebfbc02bccafce06",
+            "id": "52194e50cd8b793a",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -181,51 +156,53 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "c8889275e871958d",
+  "active": "33086d584a855bff",
   "lastOpenFiles": [
-    "main 2.py",
-    "main 1.py",
-    "main.py",
-    "백엔드.md",
+    "image to object.md",
     "image to emotion api 테스트.md",
-    "2023-09-04",
+    "image to emotion.md",
+    "text to image.md",
+    "music gen.md",
     "연, 월 선택.md",
     "버튼 누르면 이동.md",
     "날짜 선택.md",
+    "main.py",
+    "main 2.py",
+    "main 1.py",
+    "2023-09-04",
+    "<중요도1(젤 중요)>.md",
+    "사진에서 감정 추출.md",
+    "사진 1개 분석.md",
     "요구사항 명세서/요구사항 명세서.md",
-    "요구사항 명세서/우선순위 정리.md",
-    "프론트엔드.md",
+    "GPS.md",
     "API.md",
+    "백엔드.md",
+    "프론트엔드.md",
     "홈.md",
-    "해시태그와 일기 내용 매칭.md",
     "설정.md",
     "설정 버튼.md",
-    "번역.md",
-    "반복되는 단어 찾기.md",
-    "동기화 기능.md",
-    "text to image.md",
-    "music gen.md",
-    "GPS.md",
-    "image to emotion.md",
+    "<중요도3>.md",
+    "<중요도2>.md",
+    "멘토님 조언 정리/멘토님 조언.md",
+    "해시태그와 일기 내용 매칭.md",
     "테마(3).md",
     "테마(2).md",
-    "자신의 생일에 대한 별자리->강조.md",
     "테마 설정.md",
-    "일기 작성 칸.md",
-    "플러터 내용 정리",
-    "요구사항 명세서",
-    "사용해야 하는 api 정리",
-    "멘토님 조언 정리",
+    "2023-09-16/image/스크린샷 2023-09-16 오후 2.36.14.png",
+    "2023-09-16/image/Pasted image 20230916154408.png",
     "해야할 일",
     "2023-09-16/image/스크린샷 2023-09-16 오후 2.36.24.png",
     "2023-09-16/image/스크린샷 2023-09-16 오후 2.36.19.png",
-    "2023-09-16/image/스크린샷 2023-09-16 오후 2.36.14.png",
     "2023-09-16/image/스크린샷 2023-09-16 오후 2.36.08.png",
     "2023-09-16/image",
     "2023-09-16",
     "스크린샷 2023-09-16 오후 2.36.24.png",
     "스크린샷 2023-09-16 오후 2.36.19.png",
     "스크린샷 2023-09-16 오후 2.36.14.png",
-    "스크린샷 2023-09-16 오후 2.36.08.png"
+    "스크린샷 2023-09-16 오후 2.36.08.png",
+    "멘토님 조언 정리",
+    "플러터 내용 정리",
+    "사용해야 하는 api 정리",
+    "Untitled.canvas"
   ]
 }

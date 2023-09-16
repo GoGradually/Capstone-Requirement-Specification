@@ -37,3 +37,197 @@ response = t2i(prompt, negative_prompt)
 result = Image.open(urllib.request.urlopen(response.get("images")[0].get("image")))  
 result.show()
 ~~~
+
+**그림(사진)에서 감정을 추출( 정확하게 ) 노션**
+
+  
+
+  
+
+어도비 오픈소스 api 찾아보기!!!!!!!
+
+  
+
+api 들은 보통 영어 글만 지원하니까 한글글을 챗지피티(한글지원이 잘됌) 에 보내 번역 후 
+
+  
+
+글을 그림으로 만들어주는 기능 (중간 요약, 번역 기능 ) v 
+
+(text to image)
+
+-계속 여러번 했을때 바뀔떄도 있고 아닐때도 있음 (하루지났을떄 ㄷ바뀜) 
+
+-seed (토큰별로) 그림이 다르게 나옴(같을 때도 있지만 다를때가 더 많음) 
+
+-api키를 바꾸니 다른 그림이 나옴 
+
+  
+
+-단어 (한글, 영어)
+
+  
+
+한글은 고양이 빼고 웬만한건 안됌.
+
+영어 단어는 사물, 물체는 거의 가능, 근데 추상적인 단어들( emotion 안됌, 구글 단어( 브랜드 마크 이상하게 나옴), 도라에몽, 루피 ( 저작권 관련 인물 이상하게 나옴 ), bts (얼추 나오는데 얼굴 표정은 안나옴 ) )
+
+  
+
+  
+
+-단어 여러개( 한글 ,영어)
+
+(고양이, 해 , 구름) - 고양이만 나옴 
+
+(a man, mountain, water) 다 잘나옴 \
+
+(cat, sun, cloud) - 구름만 안나옴
+
+(남자한명  산 물) - 남자만 나옴 
+
+(가방, 점심, 피곤, 소녀, 의자) - 아줌마가 3명 나옴
+
+(bag, lunch, tried, girl, chair) - 다 나옴( 점심은 음식이 아닌 날씨? 로 표현된듯)(근데 midnight 로 바꿨더니 안됌) 
+
+  
+
+-문장(마침표 없는걸로) (한글 ,영어)
+
+한글 안됌
+
+  
+
+A man is driving on the highway. - (남자는 안나오지만 나머지는 나옴 ) 
+
+-문장(마침표 있는걸로 ) (한글, 영어)
+
+한글안됌(근데 마침표 없는거랑 결과가 다르게 나옴 ) 
+
+  
+
+A man is driving on the highway.- 남자는 안나오지만 나머지는 나옴- 마침표 있는거랑 다른 그림이 나옴 ) 
+
+  
+
+-긴글(한글, 영어)
+
+한글은 안됌 
+
+영어는 장미꽃이 나오기는 함 (약간의 안개스러운 분위기와 함께 ) 
+
+물든 안개
+
+안개가 되어
+
+그대의 슬픔을 떼어 가렵니다
+
+힘들면 언제든 쏟아내오
+
+안개꽃이 되어 
+
+그대 곁에 만개 할 터이니 
+
+그대는 사랑 가득한 장미꽃이 되요
+
+붉게 물든 장미꽃이 되어
+
+나를 안아주오
+
+누가 봐도 사랑받고 있는 안개꽃이 되고 싶소
+
+  
+
+  
+
+ssl 인증서가 안전하지 않다고 접속을 거부당함 (카카오 디벨러퍼) 상헌이만 됌( 예전에 한 경험이 있음) 
+
+ssl._create_default_https_context = ssl._create_unverified_context 인증서 안전하지 않아도 보여달라는 명령어를 추가했더니 나옴 
+
+-아나콘다를 사용해서 했어야 했음
+
+  
+
+  
+
+  
+~~~python
+# REST API 호출, 이미지 파일 처리에 필요한 라이브러리
+
+import requests
+
+import json
+
+import urllib
+
+from PIL import Image
+
+import ssl
+
+  
+
+ssl._create_default_https_context = ssl._create_unverified_context
+
+  
+
+# [내 애플리케이션] > [앱 키] 에서 확인한 REST API 키 값 입력
+
+REST_API_KEY = 'bad7b6a7c1f523b335d37eff0328d69b'
+
+  
+
+# 이미지 생성하기 요청
+
+def t2i(prompt, negative_prompt):
+
+    r = requests.post(
+
+        'https://api.kakaobrain.com/v2/inference/karlo/t2i',
+
+        json = {
+
+            'prompt': prompt,
+
+            'negative_prompt': negative_prompt
+
+        },
+
+        headers = {
+
+            'Authorization': f'KakaoAK {REST_API_KEY}',
+
+            'Content-Type': 'application/json'
+
+        }
+
+    )
+
+    # 응답 JSON 형식으로 변환
+
+    response = json.loads(r.content)
+
+    return response
+
+  
+
+# 프롬프트에 사용할 제시어
+
+prompt = "A cat with white fur"
+
+negative_prompt = "sleeping cat, dog, human, ugly face, cropped"
+
+  
+
+# 이미지 생성하기 REST API 호출
+
+response = t2i(prompt, negative_prompt)
+
+  
+
+# 응답의 첫 번째 이미지 생성 결과 출력하기
+
+result = Image.open(urllib.request.urlopen(response.get("images")[0].get("image")))
+
+result.show()
+~~~
+
