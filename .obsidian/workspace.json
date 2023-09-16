@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "<중요도3>.md",
+                "file": "요구사항 명세서/요구사항 명세서.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "<중요도3>.md",
+                "file": "요구사항 명세서/요구사항 명세서.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "<중요도3>.md",
+                "file": "요구사항 명세서/요구사항 명세서.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "<중요도3>.md"
+                "file": "요구사항 명세서/요구사항 명세서.md"
               }
             }
           }
@@ -160,11 +160,18 @@
   },
   "active": "e376e90fb96eef5d",
   "lastOpenFiles": [
+    "설정.md",
+    "프론트엔드.md",
+    "홈.md",
+    "설정 버튼.md",
+    "설정 버튼(3).md",
     "요구사항 명세서/요구사항 명세서.md",
+    "백엔드.md",
+    "멘토님 조언 정리/멘토님 조언.md",
+    "<중요도3>.md",
     "어플로 큰 틀 만들기.md",
     "<중요도1(젤 중요)>.md",
     "<중요도2>.md",
-    "<중요도3>.md",
     "music gen.md",
     "GPS.md",
     "번역.md",
@@ -179,13 +186,6 @@
     "오늘의 일기 버튼.md",
     "image to emotion.md",
     "사진에서 감정 추출.md",
-    "오늘 찍은 사진 여부 확인.md",
-    "사진 4개 분석.md",
-    "테마(3).md",
-    "밤 별자리(월 별 별자리, 황도 12궁).md",
-    "자신의 생일에 대한 별자리->강조.md",
-    "별 채우기.md",
-    "테마(2).md",
     "로그인",
     "플러터 내용 정리",
     "요구사항 명세서",
