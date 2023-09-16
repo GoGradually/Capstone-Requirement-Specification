@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e376e90fb96eef5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "요구사항 명세서/우선순위 정리.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "멘토님 조언 정리/멘토님 조언.md",
+                "file": "요구사항 명세서/우선순위 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "멘토님 조언 정리/멘토님 조언.md",
+                "file": "요구사항 명세서/우선순위 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "멘토님 조언 정리/멘토님 조언.md"
+                "file": "요구사항 명세서/우선순위 정리.md"
               }
             }
           }
@@ -146,13 +159,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "3a31bc1a1b1073d9",
+  "active": "e376e90fb96eef5d",
   "lastOpenFiles": [
+    "멘토님 조언 정리/멘토님 조언.md",
+    "요구사항 명세서/우선순위 정리.md",
     "요구사항 명세서/요구사항 명세서.md",
     "사용해야 하는 api 정리/using API.md",
     "해야할 일/9월의 목표.md",
     "요구사항 명세서.md",
-    "멘토님 조언 정리/멘토님 조언.md",
     "플러터 내용 정리/무제 파일.md",
     "플러터 내용 정리",
     "요구사항 명세서",
