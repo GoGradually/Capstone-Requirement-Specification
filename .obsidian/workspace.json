@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "7b43f5c14a951bf3",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2f6d544e30dd3d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a31bc1a1b1073d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "요구사항 명세서.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e74fe20027666afb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "요구사항 명세서.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ac020c61844194c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "100b8d66986a1f79",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0838b38189d4abbb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3dd6e9864daa01dc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a6a9535ce0dbba7a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "5f7dbb49b3eae064",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ecae75cfc5fe809",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b52e55153b41eada",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "요구사항 명세서.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0060ab7092ee976f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "요구사항 명세서.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6e71db562873f18f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "38d95c8346a24ae5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "요구사항 명세서.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "e74fe20027666afb",
+  "lastOpenFiles": [
+    "23-09-16.md",
+    "요구사항 명세서.md"
+  ]
+}
