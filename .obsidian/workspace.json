@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "e1b4eacd73a34f80",
+        "id": "d3dc199daedcb440",
         "type": "tabs",
         "children": [
           {
-            "id": "3481afd6e4e877b7",
+            "id": "32953aa3632a0f38",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "23-09-16 서버 돌려보기.md",
+                "file": "2023-09-16/서버 접속 해보기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6123ee7e0182098f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-09-16/서버 접속 해보기.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "23-09-16 서버 돌려보기.md",
+                "file": "2023-09-16/서버 접속 해보기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "23-09-16 서버 돌려보기.md",
+                "file": "2023-09-16/서버 접속 해보기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "23-09-16 서버 돌려보기.md"
+                "file": "2023-09-16/서버 접속 해보기.md"
               }
             }
           },
@@ -156,25 +169,26 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "3481afd6e4e877b7",
+  "active": "6123ee7e0182098f",
   "lastOpenFiles": [
-    "23-09-16.md",
-    "23-09-16 깃헙 관리 방법.md",
-    "23-09-16 서버 돌려보기.md",
-    "스크린샷 2023-09-16 오후 2.36.24.png",
-    "스크린샷 2023-09-16 오후 2.36.19.png",
-    "스크린샷 2023-09-16 오후 2.36.14.png",
-    "스크린샷 2023-09-16 오후 2.36.08.png",
+    "해야할 일/9월의 목표.md",
+    "2023-09-16/서버 접속 해보기.md",
+    "해야할 일",
+    "플러터 내용 정리",
+    "사용해야 하는 api 정리",
+    "요구사항 명세서",
     "요구사항 명세서.md",
-    "무제 파일.md",
-    "무제 폴더",
-    "일기 작성.md",
+    "23-09-16 깃헙 관리 방법.md",
+    "23-09-16.md",
     "23-09-16 옵시디언에 여태 한 내용 총 정리.md",
-    "무제 폴더 2",
-    "무제 폴더 1",
-    "이미지 생성.md",
-    "사진 존재 여부.md",
-    "사진 고르기.md",
+    "일기 작성.md",
+    "2023-09-16/image",
+    "2023-09-16",
+    "2023-09-16/image/스크린샷 2023-09-16 오후 2.36.19.png",
+    "2023-09-16/image/스크린샷 2023-09-16 오후 2.36.14.png",
+    "2023-09-16/image/스크린샷 2023-09-16 오후 2.36.08.png",
+    "스크린샷 2023-09-16 오후 2.36.08.png.md",
+    "2023-09-16/image/스크린샷 2023-09-16 오후 2.36.24.png",
     "Untitled.canvas",
     "2023-09-16.md"
   ]
