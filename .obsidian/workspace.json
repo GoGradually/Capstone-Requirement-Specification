@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6123ee7e0182098f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-09-16/서버 접속 해보기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -169,8 +156,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "6123ee7e0182098f",
+  "active": "439fc0556762fbab",
   "lastOpenFiles": [
+    "멘토님 조언 정리",
     "해야할 일/9월의 목표.md",
     "2023-09-16/서버 접속 해보기.md",
     "해야할 일",
