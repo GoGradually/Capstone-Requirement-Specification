@@ -1,52 +1,39 @@
 {
   "main": {
-    "id": "7b43f5c14a951bf3",
+    "id": "eb8c6b45171590e2",
     "type": "split",
     "children": [
       {
-        "id": "f2f6d544e30dd3d9",
+        "id": "d3dc199daedcb440",
         "type": "tabs",
         "children": [
           {
-            "id": "3a31bc1a1b1073d9",
+            "id": "32953aa3632a0f38",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "요구사항 명세서.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e74fe20027666afb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "23-09-16 깃헙 관리 방법.md",
+                "file": "일기 작성.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "ac020c61844194c0",
+    "id": "24d720d25f7403a2",
     "type": "split",
     "children": [
       {
-        "id": "100b8d66986a1f79",
+        "id": "2467d1765b845d0e",
         "type": "tabs",
         "children": [
           {
-            "id": "0838b38189d4abbb",
+            "id": "439fc0556762fbab",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +43,7 @@
             }
           },
           {
-            "id": "3dd6e9864daa01dc",
+            "id": "0ce6970b0beab01c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,7 +58,7 @@
             }
           },
           {
-            "id": "a6a9535ce0dbba7a",
+            "id": "62f3bfaf21cf642c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -82,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "5f7dbb49b3eae064",
+    "id": "490d84db42cac4c6",
     "type": "split",
     "children": [
       {
-        "id": "1ecae75cfc5fe809",
+        "id": "5ff932e46b59c962",
         "type": "tabs",
         "children": [
           {
-            "id": "b52e55153b41eada",
+            "id": "7c4b4647bdd5efe9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "23-09-16 깃헙 관리 방법.md",
+                "file": "일기 작성.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,19 +97,19 @@
             }
           },
           {
-            "id": "0060ab7092ee976f",
+            "id": "fdc0eb59fc140682",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "23-09-16 깃헙 관리 방법.md",
+                "file": "일기 작성.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "6e71db562873f18f",
+            "id": "6f930a6b8a928b70",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,12 +120,22 @@
             }
           },
           {
-            "id": "38d95c8346a24ae5",
+            "id": "935b5dec75b45676",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "23-09-16 깃헙 관리 방법.md"
+                "file": "일기 작성.md"
+              }
+            }
+          },
+          {
+            "id": "52194e50cd8b793a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -159,14 +156,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e74fe20027666afb",
+  "active": "32953aa3632a0f38",
   "lastOpenFiles": [
-    "23-09-16.md",
-    "23-09-16 깃헙 관리 방법.md",
-    "23-09-16 서버 돌려보기.md",
-    "일기 작성.md",
     "23-09-16 옵시디언에 여태 한 내용 총 정리.md",
+    "23-09-16 서버 돌려보기.md",
+    "23-09-16 깃헙 관리 방법.md",
+    "일기 작성.md",
     "요구사항 명세서.md",
-    "사진 존재 여부.md"
+    "23-09-16.md",
+    "무제 파일.md",
+    "무제 폴더",
+    "Untitled.canvas",
+    "2023-09-16.md"
   ]
 }
