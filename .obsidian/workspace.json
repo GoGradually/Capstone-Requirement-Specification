@@ -8,79 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "67a81c16b81d9acf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "멘토님조언 & 준비내용정리/2023 - 09 - 03(추후 정리 예정).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "71a6af2fe6ed9876",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "직접 학습 시킬 만한 것들/직접 학습 시킬 만한 것들.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6fe29c5807d14407",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "멘토님조언 & 준비내용정리/2023 - 09 - 03(추후 정리 예정).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c630815b786aa9a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "멘토님조언 & 준비내용정리/2023 - 09 - 03(추후 정리 예정).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d37c1fc643769dac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "직접 학습 시킬 만한 것들/직접 학습 시킬 만한 것들.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "88849df432e049cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "사용해야 하는 api 정리/API.md",
+                "file": "팀플 미팅/2023-09-04/0904.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "사용해야 하는 api 정리/API.md",
+                "file": "팀플 미팅/2023-09-04/0904.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "사용해야 하는 api 정리/API.md",
+                "file": "팀플 미팅/2023-09-04/0904.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "사용해야 하는 api 정리/API.md"
+                "file": "팀플 미팅/2023-09-04/0904.md"
               }
             }
           },
@@ -220,18 +159,20 @@
   "active": "88849df432e049cc",
   "lastOpenFiles": [
     "직접 학습 시킬 만한 것들/직접 학습 시킬 만한 것들.md",
+    "멘토님조언 & 준비내용정리/2023 - 09 - 03(추후 정리 예정).md",
+    "팀플 미팅/2023-09-04/0904.md",
     "요구사항 명세서/요구사항 명세서(UML).md",
     "사용해야 하는 api 정리/API.md",
+    "직접 학습 시킬 만한 것들/IMG_CDD6BA26EA05-1.jpeg",
+    "중요도/<중요도1>/감정 기복 그래프.md",
+    "중요도/<중요도1>/<중요도1(젤 중요)>.md",
     "요구사항 명세서/우선순위 정리.md",
     "AI 플랫폼/api 얻을 수 있는 곳 장단점.md",
-    "팀플 미팅/2023-09-04/0904.md",
     "멘토님조언 & 준비내용정리/2023 - 09 - 17.md",
-    "멘토님조언 & 준비내용정리/2023 - 09 - 03(추후 정리 예정).md",
     "멘토님조언 & 준비내용정리/2023 - 08 - 27( 추후 정리 예정).md",
     "~$1212.docx",
     "1212.docx",
     "중요도/<중요도3>/<중요도3>.md",
-    "직접 학습 시킬 만한 것들/IMG_CDD6BA26EA05-1.jpeg",
     "팀플 미팅",
     "해야할 일/9월의 목표.md",
     "AI 플랫폼",
@@ -250,9 +191,6 @@
     "설정 버튼.md",
     "사용해야 하는 api 정리/GPS.md",
     "날짜 선택.md",
-    "폰트 스타일.md",
-    "중요도/<중요도2>/<중요도2>.md",
-    "중요도/<중요도1>/<중요도1(젤 중요)>.md",
     "무제 파일.canvas",
     "중요도/<중요도3>/pngtree-vibrant-pastel-clouds-and-rainbow-illustrated-in-3d-picture-image_3749270.jpg",
     "중요도/<중요도2>/img.png",
