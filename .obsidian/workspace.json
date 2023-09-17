@@ -54,9 +54,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d37c1fc643769dac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "직접 학습 시킬 만한 것들/직접 학습 시킬 만한 것들.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "88849df432e049cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "사용해야 하는 api 정리/API.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -122,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "멘토님조언 & 준비내용정리/2023 - 09 - 03(추후 정리 예정).md",
+                "file": "사용해야 하는 api 정리/API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "멘토님조언 & 준비내용정리/2023 - 09 - 03(추후 정리 예정).md",
+                "file": "사용해야 하는 api 정리/API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "멘토님조언 & 준비내용정리/2023 - 09 - 03(추후 정리 예정).md"
+                "file": "사용해야 하는 api 정리/API.md"
               }
             }
           },
@@ -193,16 +217,21 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "439fc0556762fbab",
+  "active": "88849df432e049cc",
   "lastOpenFiles": [
-    "멘토님조언 & 준비내용정리/2023 - 08 - 27( 추후 정리 예정).md",
+    "직접 학습 시킬 만한 것들/직접 학습 시킬 만한 것들.md",
+    "요구사항 명세서/요구사항 명세서(UML).md",
+    "사용해야 하는 api 정리/API.md",
+    "요구사항 명세서/우선순위 정리.md",
+    "AI 플랫폼/api 얻을 수 있는 곳 장단점.md",
+    "팀플 미팅/2023-09-04/0904.md",
+    "멘토님조언 & 준비내용정리/2023 - 09 - 17.md",
     "멘토님조언 & 준비내용정리/2023 - 09 - 03(추후 정리 예정).md",
+    "멘토님조언 & 준비내용정리/2023 - 08 - 27( 추후 정리 예정).md",
     "~$1212.docx",
     "1212.docx",
-    "직접 학습 시킬 만한 것들/직접 학습 시킬 만한 것들.md",
     "중요도/<중요도3>/<중요도3>.md",
     "직접 학습 시킬 만한 것들/IMG_CDD6BA26EA05-1.jpeg",
-    "AI 플랫폼/api 얻을 수 있는 곳 장단점.md",
     "팀플 미팅",
     "해야할 일/9월의 목표.md",
     "AI 플랫폼",
@@ -215,20 +244,15 @@
     "유저가 직접 설정한.md",
     "프론트엔드.md",
     "배경화면 설정.md",
-    "요구사항 명세서/요구사항 명세서(UML).md",
-    "요구사항 명세서/우선순위 정리.md",
     "테마 설정.md",
     "중요도/<중요도4>/추가적인 아이디어 정리.md",
     "중요도/<중요도3>/테마(3).md",
-    "사용해야 하는 api 정리/API.md",
     "설정 버튼.md",
     "사용해야 하는 api 정리/GPS.md",
     "날짜 선택.md",
     "폰트 스타일.md",
     "중요도/<중요도2>/<중요도2>.md",
     "중요도/<중요도1>/<중요도1(젤 중요)>.md",
-    "홈.md",
-    "연, 월 선택.md",
     "무제 파일.canvas",
     "중요도/<중요도3>/pngtree-vibrant-pastel-clouds-and-rainbow-illustrated-in-3d-picture-image_3749270.jpg",
     "중요도/<중요도2>/img.png",

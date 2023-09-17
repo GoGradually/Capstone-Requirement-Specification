@@ -3,5 +3,7 @@
 [[music gen]]
 [[GPS]]
 [[image to object]]
+[[summary]]
+[[translation]]
 
 

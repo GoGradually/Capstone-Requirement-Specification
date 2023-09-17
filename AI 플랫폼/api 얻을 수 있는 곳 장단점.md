@@ -44,5 +44,9 @@ https://www.dbpia.co.kr
 단점: 논문을 얻기 위해 돈을 지불해야 함.( 월 구독료), 어플을 만드는 데에 필요한 정보기 있을지 모르겠음.
 (etc. etrl 관련 논문도 있음.)
 
+10. adobe ai
+https://www.adobe.com/kr/sensei.html
+-> 알아볼 예정(ex.포토샵 생성형 ai)
+
 
 장단점 조금 더 자세히 쓸 예정.
