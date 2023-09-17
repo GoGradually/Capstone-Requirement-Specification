@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "멘토님조언 & 준비내용정리/2023 - 09 - 03(추후 정리 예정).md",
+                "file": "중요도/<중요도1>/<중요도1(젤 중요)>.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "382a7468ee020579",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "팀플 미팅/2023-09-04/image to emotion api 테스트.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b0398865e4c8bb30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "팀플 미팅/2023-09-04/테스트.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,14 +97,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "사용해야 하는 api 정리/API.md",
+                "file": "멘토님조언 & 준비내용정리/2023 - 09 - 17.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -130,7 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200.5
   },
   "right": {
     "id": "490d84db42cac4c6",
@@ -146,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "사용해야 하는 api 정리/API.md",
+                "file": "팀플 미팅/2023-09-04/테스트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "사용해야 하는 api 정리/API.md",
+                "file": "팀플 미팅/2023-09-04/테스트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "사용해야 하는 api 정리/API.md"
+                "file": "팀플 미팅/2023-09-04/테스트.md"
               }
             }
           },
@@ -204,7 +228,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -217,55 +241,55 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "88849df432e049cc",
+  "active": "439fc0556762fbab",
   "lastOpenFiles": [
-    "직접 학습 시킬 만한 것들/직접 학습 시킬 만한 것들.md",
-    "요구사항 명세서/요구사항 명세서(UML).md",
-    "사용해야 하는 api 정리/API.md",
-    "요구사항 명세서/우선순위 정리.md",
-    "AI 플랫폼/api 얻을 수 있는 곳 장단점.md",
+    "팀플 미팅/2023-09-04/KakaoTalk_Photo_2023-09-17-16-44-16.png",
+    "팀플 미팅/2023-09-04/KakaoTalk_Photo_2023-09-17-16-42-36.png",
+    "팀플 미팅/2023-09-04/KakaoTalk_Photo_2023-09-17-16-40-39 1.png",
     "팀플 미팅/2023-09-04/0904.md",
-    "멘토님조언 & 준비내용정리/2023 - 09 - 17.md",
-    "멘토님조언 & 준비내용정리/2023 - 09 - 03(추후 정리 예정).md",
-    "멘토님조언 & 준비내용정리/2023 - 08 - 27( 추후 정리 예정).md",
-    "~$1212.docx",
-    "1212.docx",
-    "중요도/<중요도3>/<중요도3>.md",
-    "직접 학습 시킬 만한 것들/IMG_CDD6BA26EA05-1.jpeg",
-    "팀플 미팅",
-    "해야할 일/9월의 목표.md",
-    "AI 플랫폼",
-    "직접 학습 시킬 만한 것들",
+    "팀플 미팅/2023-09-04/테스트.md",
+    "팀플 미팅/2023-09-04/image to emotion api 테스트.md",
+    "팀플 미팅/2023-09-04/KakaoTalk_Photo_2023-09-17-16-40-39.png",
+    "팀플 미팅/2023-09-04/Pasted image 20230917163551.png",
+    "플러터 내용 정리/어플의 전체적인 구성(사진).md",
+    "플러터 내용 정리/플러터 내용 정리.md",
+    "Pasted Graphic 3 1.tiff",
+    "Pasted Graphic 2 1.tiff",
+    "Pasted Graphic 3.tiff",
+    "Pasted Graphic 2.tiff",
     "팀플 미팅/2023-09-16/서버 실행 화면( 주말이라 안나옴).md",
     "팀플 미팅/2023-09-16/서버 접속 해보기.md",
-    "팀플 미팅/2023-09-16/서버 실행 화면.png",
-    "중요도",
-    "설정.md",
-    "유저가 직접 설정한.md",
-    "프론트엔드.md",
-    "배경화면 설정.md",
-    "테마 설정.md",
-    "중요도/<중요도4>/추가적인 아이디어 정리.md",
-    "중요도/<중요도3>/테마(3).md",
-    "설정 버튼.md",
-    "사용해야 하는 api 정리/GPS.md",
-    "날짜 선택.md",
-    "폰트 스타일.md",
+    "멘토님조언 & 준비내용정리/2023 - 09 - 03(추후 정리 예정).md",
+    "직접 학습 시킬 만한 것들/직접 학습 시킬 만한 것들.md",
+    "요구사항 명세서/요구사항 명세서(UML).md",
+    "요구사항 명세서/우선순위 정리.md",
+    "요구사항 명세서/uml 사진.png",
+    "요구사항 명세서/명세서 예시.png",
+    "중요도/<중요도2>/내 정보 버튼.md",
     "중요도/<중요도2>/<중요도2>.md",
     "중요도/<중요도1>/<중요도1(젤 중요)>.md",
-    "무제 파일.canvas",
-    "중요도/<중요도3>/pngtree-vibrant-pastel-clouds-and-rainbow-illustrated-in-3d-picture-image_3749270.jpg",
-    "중요도/<중요도2>/img.png",
-    "중요도/<중요도4>/images-2.jpeg",
-    "중요도/<중요도3>/ea65488dd_700x700_95_FIT.jpg",
-    "중요도/<중요도3>",
-    "중요도/<중요도2>",
-    "중요도/<중요도1>",
+    "중요도/<중요도2>/설정 버튼(2).md",
+    "중요도/<중요도4>/추가적인 아이디어 정리.md",
+    "중요도/<중요도3>/<중요도3>.md",
+    "기대 효과/기대효과( 추가 작성 하기).md",
+    "기대 효과",
+    "중요도/<중요도1>/일기 작성 칸.md",
+    "사용해야 하는 api 정리/API.md",
+    "사용해야 하는 api 정리/image to emotion.md",
+    "사용해야 하는 api 정리/GPS.md",
+    "멘토님조언 & 준비내용정리/2023 - 08 - 27( 추후 정리 예정).md",
+    "멘토님조언 & 준비내용정리/2023 - 09 - 17.md",
+    "~$1212.docx",
+    "AI 플랫폼/api 얻을 수 있는 곳 장단점.md",
     "플러터 내용 정리/감정 일기 어플 구성.pdf",
     "팀플 미팅/2023-09-16/image/서버 실행 화면.png",
-    "팀플 미팅/2023-09-16/image/스크린샷 2023-09-16 오후 2.36.14.png",
-    "2023-09-16/image/Pasted image 20230916154408.png",
-    "팀플 미팅/2023-09-16/image/스크린샷 2023-09-16 오후 2.36.24.png",
+    "팀플 미팅/2023-09-16/image/스크린샷 2023-09-16 오후 2.36.08.png",
+    "직접 학습 시킬 만한 것들/IMG_CDD6BA26EA05-1.jpeg",
+    "1212.docx",
+    "팀플 미팅",
+    "AI 플랫폼",
+    "팀플 미팅/2023-09-16/서버 실행 화면.png",
+    "무제 파일.canvas",
     "Untitled.canvas"
   ]
 }
