@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "<중요도1(젤 중요)>.md",
+                "file": "image to emotion api 테스트.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "<중요도1(젤 중요)>.md",
+                "file": "image to emotion api 테스트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "<중요도1(젤 중요)>.md",
+                "file": "image to emotion api 테스트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "<중요도1(젤 중요)>.md"
+                "file": "image to emotion api 테스트.md"
               }
             }
           }
@@ -160,6 +160,17 @@
   },
   "active": "e376e90fb96eef5d",
   "lastOpenFiles": [
+    "main 1~.py",
+    "반복되는 단어 찾기.md",
+    "밤 별자리(월 별 별자리, 황도 12궁).md",
+    "번역.md",
+    "버튼 누르면 이동.md",
+    "사진 4개 분석.md",
+    "사진에서 감정 추출.md",
+    "설정 버튼.md",
+    "설정 버튼(2).md",
+    "사용해야 하는 api 정리/using API.md",
+    "<중요도1(젤 중요)>.md",
     "main.py",
     "main 2.py",
     "main 1.py",
@@ -174,20 +185,10 @@
     "글자체 설정.md",
     "API.md",
     "요구사항 명세서/우선순위 정리.md",
-    "<중요도1(젤 중요)>.md",
     "어플로 큰 틀 만들기.md",
     "오늘의 일기 버튼.md",
     "달력 보기.md",
     "연, 월 선택.md",
-    "날짜 선택.md",
-    "버튼 누르면 이동.md",
-    "홈.md",
-    "설정 버튼.md",
-    "설정 버튼(3).md",
-    "멘토님 조언 정리/멘토님 조언.md",
-    "music gen.md",
-    "GPS.md",
-    "번역.md",
     "로그인",
     "플러터 내용 정리",
     "요구사항 명세서",
@@ -199,7 +200,6 @@
     "2023-09-16/image/스크린샷 2023-09-16 오후 2.36.19.png",
     "2023-09-16/image/스크린샷 2023-09-16 오후 2.36.14.png",
     "2023-09-16/image/스크린샷 2023-09-16 오후 2.36.08.png",
-    "2023-09-16/image",
     "스크린샷 2023-09-16 오후 2.36.24.png",
     "스크린샷 2023-09-16 오후 2.36.19.png",
     "스크린샷 2023-09-16 오후 2.36.14.png",

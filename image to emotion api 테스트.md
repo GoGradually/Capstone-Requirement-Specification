@@ -7,7 +7,7 @@ import urllib
 from PIL import Image  
   
 # [내 애플리케이션] > [앱 키] 에서 확인한 REST API 키 값 입력  
-REST_API_KEY = 'bad7b6a7c1f523b335d37eff0328d69b'  
+REST_API_KEY = '//'  
   
 # 이미지 생성하기 요청  
 def t2i(prompt, negative_prompt):  
@@ -172,7 +172,7 @@ ssl._create_default_https_context = ssl._create_unverified_context
 
 # [내 애플리케이션] > [앱 키] 에서 확인한 REST API 키 값 입력
 
-REST_API_KEY = 'bad7b6a7c1f523b335d37eff0328d69b'
+REST_API_KEY = '//'
 
   
 
